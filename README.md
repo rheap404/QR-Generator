@@ -15,11 +15,12 @@ To run this application, ensure you have Python installed on your system. You ca
 ### Dependencies
 
 Install the required Python libraries using pip:
+```bash
 pip install qrcode[pil] tk
 
 ### Usage
 1. Run the Application:
-  - Execute the script qr_code_generator.py using Python.
+  - Execute the script `qr_code_generator.py` using Python.
     
 2. Generate QR Code:
   - Enter a URL into the provided text entry box.  
