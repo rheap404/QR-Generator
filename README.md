@@ -15,8 +15,8 @@ To run this application, ensure you have Python installed on your system. You ca
 ### Dependencies
 
 Install the required Python libraries using pip:
-```bash
-pip install qrcode[pil] tk
+`pip install qrcode[pil] tk`
+
 
 ### Usage
 1. Run the Application:
